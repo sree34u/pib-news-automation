@@ -1,0 +1,4 @@
+playwright==1.42.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+gpt4all==2.8.2
